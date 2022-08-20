@@ -4,6 +4,8 @@ This page shall capture the resources to read more around database systems
 
 My foremost recommendation would be [CMU Database Group](https://www.youtube.com/c/CMUDatabaseGroup)
 
+## Online Classes/Courses
+
 I am a big fan of Professor [Andy Pavlo](http://www.cs.cmu.edu/~pavlo/) and would recommend 
 watching recordings of his course teachings
 
@@ -11,3 +13,10 @@ watching recordings of his course teachings
 * [Advanced Database Systems](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
 *Note - You can refer newer version of course. Assignments are also open to public*
+
+
+## Blogs
+
+* [Writing Database from Scratch in Go](https://notes.eatonphil.com/database-basics.html)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+
